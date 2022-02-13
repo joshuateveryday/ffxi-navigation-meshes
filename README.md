@@ -1,0 +1,1 @@
+# ffxi-navigation-meshes
